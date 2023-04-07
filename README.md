@@ -1,1 +1,2 @@
 # odev-sifir-bulana-kadar-say-
+Bu kod, kullanıcıdan iki pozitif tam sayı alır ve verilen işlemi kullanarak num1=0 veya num2=0 yapmak için gereken işlem sayısını hesaplar. while döngüsü, num1 ve num2 değerleri sıfıra eşit olmadığı sürece çalışır. Döngü her bir adımda num1 veya num2'den daha küçük olan sayıyı diğer sayıdan çıkarır. İşlem sayısı da her bir adımda bir arttırılır. Döngü sona erdiğinde, işlem sayısı ekrana yazdırılır.
